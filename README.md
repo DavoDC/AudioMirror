@@ -1,5 +1,9 @@
 # Audio Mirror
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G31WKOCN)
+
+
+
 This repo contains a lightweight 'mirror' of my Audio (Music) folder, in which I keep my music library.
 
 - Each audio file in my music library is mirrored by an XML file in this repo containing the track's metadata (e.g. title, artist, genre etc.).
