@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Attitude is Everything</Title>
   <Artists>Jim Rohn</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Motivation</Genres>
   <Length>00:25:22.2870000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1400</Width>
+    <Height>1400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

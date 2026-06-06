@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Fly Me To The Moon (In Other Words)</Title>
   <Artists>Frank Sinatra; Count Basie</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Jazz</Genres>
   <Length>00:02:30.2290000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

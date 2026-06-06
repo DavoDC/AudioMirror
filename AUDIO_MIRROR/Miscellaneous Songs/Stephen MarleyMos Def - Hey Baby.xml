@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Hey Baby</Title>
   <Artists>Stephen Marley; Mos Def</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>2</TrackNumber>
   <Genres>Reggae;R&amp;B;Contemporary R&amp;B</Genres>
   <Length>00:04:55.3520000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

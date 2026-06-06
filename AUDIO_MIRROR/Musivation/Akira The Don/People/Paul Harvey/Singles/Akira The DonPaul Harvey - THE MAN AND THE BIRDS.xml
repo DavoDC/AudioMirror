@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>THE MAN AND THE BIRDS</Title>
   <Artists>Akira The Don; Paul Harvey</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:06:21.3560000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1280</Width>
+    <Height>720</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

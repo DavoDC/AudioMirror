@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>What Is This Mystery?</Title>
   <Artists>Akira The Don; Joseph Campbell</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:06:04.2280000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

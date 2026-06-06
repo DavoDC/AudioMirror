@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Cheap Thrills</Title>
   <Artists>Sia;Sean Paul</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>13</TrackNumber>
   <Genres>Pop</Genres>
   <Length>00:03:45.0550000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1200</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

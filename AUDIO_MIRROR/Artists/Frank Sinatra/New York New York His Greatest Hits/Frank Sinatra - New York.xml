@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>New York</Title>
   <Artists>Frank Sinatra</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Easy Listening</Genres>
   <Length>00:03:26.5880000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>600</Width>
+    <Height>600</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

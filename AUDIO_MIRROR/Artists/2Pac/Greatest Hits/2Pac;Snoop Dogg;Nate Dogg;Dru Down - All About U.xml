@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>All About U</Title>
   <Artists>2Pac;Snoop Dogg;Nate Dogg;Dru Down</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>11</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:04:33.7390000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

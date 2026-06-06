@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Just Like That</Title>
   <Artists>KRS-One</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Hip Hop</Genres>
   <Length>00:04:51.1880000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

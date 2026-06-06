@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Regulate</Title>
   <Artists>Nate Dogg; Warren G</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>7</TrackNumber>
   <Genres>Films; Games; Film Scores</Genres>
   <Length>00:04:09.9120000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Seven Days in Sunny June</Title>
   <Artists>Jamiroquai</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>3</TrackNumber>
   <Genres>Electronica</Genres>
   <Length>00:03:58.4600000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>500</Width>
+    <Height>495</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Step 5: Set Yourself Up to Win</Title>
   <Artists>Tony Robbins</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>12</TrackNumber>
   <Genres>Motivation</Genres>
   <Length>00:06:33.8530000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

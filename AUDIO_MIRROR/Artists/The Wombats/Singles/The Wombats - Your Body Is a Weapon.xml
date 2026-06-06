@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Your Body Is a Weapon</Title>
   <Artists>The Wombats</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Alternative</Genres>
   <Length>00:04:00.2600000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1400</Width>
+    <Height>1400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

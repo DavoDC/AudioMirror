@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Yeah 3x</Title>
   <Artists>Chris Brown</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>7</TrackNumber>
   <Genres>R&amp;B</Genres>
   <Length>00:04:02.2560000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

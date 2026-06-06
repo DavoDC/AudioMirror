@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Waluigi vs Smash Bros Battle Rap Trilogy</Title>
   <Artists>mashed</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Rap</Genres>
   <Length>00:10:36.0350000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1080</Width>
+    <Height>1080</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

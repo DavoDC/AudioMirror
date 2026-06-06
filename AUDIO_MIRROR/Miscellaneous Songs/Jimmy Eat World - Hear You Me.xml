@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Hear You Me</Title>
   <Artists>Jimmy Eat World</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>6</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:04:44.9720000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

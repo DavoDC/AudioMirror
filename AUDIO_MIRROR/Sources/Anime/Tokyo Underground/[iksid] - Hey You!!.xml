@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Hey You!!</Title>
   <Artists>[iksi:d]</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Asian Music</Genres>
   <Length>00:04:06.2950000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1024</Width>
+    <Height>1024</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

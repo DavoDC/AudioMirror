@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Those Who Can't Do</Title>
   <Artists>School of Rock</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>14</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:00:42.5650000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1184</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

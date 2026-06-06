@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Lighters</Title>
   <Artists>Bad Meets Evil; Eminem; Royce da 5'9"; Bruno Mars</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>7</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:05:04.3890000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

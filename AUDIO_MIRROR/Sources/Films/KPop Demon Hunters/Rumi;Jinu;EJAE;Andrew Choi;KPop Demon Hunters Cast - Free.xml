@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Free</Title>
   <Artists>Rumi;Jinu;EJAE;Andrew Choi;KPop Demon Hunters Cast</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>8</TrackNumber>
   <Genres>Asian Music</Genres>
   <Length>00:03:08.5410000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

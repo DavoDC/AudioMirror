@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>My Darling</Title>
   <Artists>Eminem</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>8</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:05:20.4950000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Let It Flow</Title>
   <Artists>Bob Proctor</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:03:01.4840000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1280</Width>
+    <Height>1280</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

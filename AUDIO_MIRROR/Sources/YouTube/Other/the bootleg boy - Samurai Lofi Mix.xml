@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Samurai Lofi Mix</Title>
   <Artists>the bootleg boy</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Lofi</Genres>
   <Length>00:40:01.8030000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

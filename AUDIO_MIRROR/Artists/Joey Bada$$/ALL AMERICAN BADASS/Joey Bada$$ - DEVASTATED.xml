@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>DEVASTATED</Title>
   <Artists>Joey Bada$$</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>5</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:03:27.6300000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1400</Width>
+    <Height>1400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

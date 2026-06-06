@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Downtown</Title>
   <Artists>Kanye West; Young Jeezy</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:03:40.6240000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>888</Width>
+    <Height>888</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Blink Twice</Title>
   <Artists>Shaboozey; Myles Smith</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>16</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:02:37.2920000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

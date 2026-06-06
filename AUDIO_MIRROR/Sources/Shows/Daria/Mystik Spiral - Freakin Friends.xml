@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Freakin Friends</Title>
   <Artists>Mystik Spiral</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Trance Punk</Genres>
   <Length>00:02:38.2760000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

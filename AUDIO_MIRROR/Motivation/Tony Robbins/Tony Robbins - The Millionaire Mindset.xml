@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>The Millionaire Mindset</Title>
   <Artists>Tony Robbins</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Motivation</Genres>
   <Length>00:18:49.4200000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>640</Width>
+    <Height>680</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Missin' You</Title>
   <Artists>Trey Songz</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>11</TrackNumber>
   <Genres>R&amp;B</Genres>
   <Length>00:03:35.2290000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

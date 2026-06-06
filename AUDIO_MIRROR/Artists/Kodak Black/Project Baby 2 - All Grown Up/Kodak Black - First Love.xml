@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>First Love</Title>
   <Artists>Kodak Black</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>7</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:03:09.2810000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>2048</Width>
+    <Height>2048</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

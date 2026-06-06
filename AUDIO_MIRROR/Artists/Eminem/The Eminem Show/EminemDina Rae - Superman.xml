@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Superman</Title>
   <Artists>Eminem; Dina Rae</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>13</TrackNumber>
   <Genres>Rap</Genres>
   <Length>00:05:50.9240000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>500</Width>
+    <Height>500</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

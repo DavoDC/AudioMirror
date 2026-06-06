@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>You're Never Over</Title>
   <Artists>Eminem</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>16</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:05:06.6560000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>500</Width>
+    <Height>500</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

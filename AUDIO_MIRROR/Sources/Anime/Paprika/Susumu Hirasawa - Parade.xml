@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Parade</Title>
   <Artists>Susumu Hirasawa</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Soundtrack</Genres>
   <Length>00:05:44.1110000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>899</Width>
+    <Height>900</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

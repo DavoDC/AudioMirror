@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Rich AF</Title>
   <Artists>Room2Breathe</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>9</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:03:24.3610000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>640</Width>
+    <Height>640</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

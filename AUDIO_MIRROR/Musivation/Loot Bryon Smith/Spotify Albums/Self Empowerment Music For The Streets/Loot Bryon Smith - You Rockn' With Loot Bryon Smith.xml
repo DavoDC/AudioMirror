@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>You Rockn' With Loot Bryon Smith</Title>
   <Artists>Loot Bryon Smith</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>2</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:03:03.9280000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

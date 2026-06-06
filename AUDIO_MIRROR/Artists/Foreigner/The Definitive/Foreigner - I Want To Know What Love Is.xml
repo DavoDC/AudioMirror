@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>I Want To Know What Love Is</Title>
   <Artists>Foreigner</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>3</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:05:01.5080000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>436</Width>
+    <Height>436</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

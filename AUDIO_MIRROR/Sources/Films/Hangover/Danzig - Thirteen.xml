@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Thirteen</Title>
   <Artists>Danzig</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>2</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:04:16.0170000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1425</Width>
+    <Height>1425</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

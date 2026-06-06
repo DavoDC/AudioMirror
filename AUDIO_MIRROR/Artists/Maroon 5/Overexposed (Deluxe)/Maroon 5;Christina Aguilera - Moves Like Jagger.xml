@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Moves Like Jagger</Title>
   <Artists>Maroon 5;Christina Aguilera</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>16</TrackNumber>
   <Genres>Pop</Genres>
   <Length>00:03:22.1200000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

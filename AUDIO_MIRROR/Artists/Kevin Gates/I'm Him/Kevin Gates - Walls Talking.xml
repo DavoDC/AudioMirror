@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Walls Talking</Title>
   <Artists>Kevin Gates</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>8</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:02:53.9980000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1200</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

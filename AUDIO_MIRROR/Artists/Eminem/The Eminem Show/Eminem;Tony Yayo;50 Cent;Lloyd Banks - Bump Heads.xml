@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Bump Heads</Title>
   <Artists>Eminem;Tony Yayo;50 Cent;Lloyd Banks</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>20</TrackNumber>
   <Genres>Rap</Genres>
   <Length>00:04:42.0270000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>500</Width>
+    <Height>500</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

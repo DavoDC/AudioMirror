@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Eyes Closed</Title>
   <Artists>Kanye West</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:04:15.6260000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>888</Width>
+    <Height>888</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

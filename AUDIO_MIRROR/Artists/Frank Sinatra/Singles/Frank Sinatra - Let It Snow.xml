@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Let It Snow</Title>
   <Artists>Frank Sinatra</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>10</TrackNumber>
   <Genres>Easy Listening</Genres>
   <Length>00:01:30.1550000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>500</Width>
+    <Height>496</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

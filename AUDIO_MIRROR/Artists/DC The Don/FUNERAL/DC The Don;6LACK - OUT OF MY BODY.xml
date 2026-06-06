@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>OUT OF MY BODY</Title>
   <Artists>DC The Don;6LACK</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>10</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:03:32.8310000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1200</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

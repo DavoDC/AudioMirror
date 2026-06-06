@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Not Leaving You Tonight</Title>
   <Artists>LL COOL J;Fitz and The Tantrums;Eddie Van Halen</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>2</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:04:04.2630000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

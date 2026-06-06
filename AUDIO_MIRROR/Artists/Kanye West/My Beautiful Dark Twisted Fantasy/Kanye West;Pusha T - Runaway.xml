@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Runaway</Title>
   <Artists>Kanye West;Pusha T</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>9</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:09:08.3080000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

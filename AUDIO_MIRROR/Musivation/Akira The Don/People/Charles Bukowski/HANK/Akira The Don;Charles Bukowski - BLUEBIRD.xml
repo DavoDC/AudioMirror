@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>BLUEBIRD</Title>
   <Artists>Akira The Don;Charles Bukowski</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>2</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:02:11.1250000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1200</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

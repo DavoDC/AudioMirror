@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Like Water</Title>
   <Artists>Joey Bada$$; Capital STEEZ; CJ Fly</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:03:32.9760000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>736</Width>
+    <Height>736</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Once Bitten</Title>
   <Artists>3 Speed</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:03:06.8280000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>985</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Swearin' to God</Title>
   <Artists>Jersey Boys</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:04:02.6210000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1400</Width>
+    <Height>1400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>God is a Woman</Title>
   <Artists>Ariana Grande</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>1</TrackNumber>
   <Genres>Pop</Genres>
   <Length>00:03:18.1550000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1400</Width>
+    <Height>1400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

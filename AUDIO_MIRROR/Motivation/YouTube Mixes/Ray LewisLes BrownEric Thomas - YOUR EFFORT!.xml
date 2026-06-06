@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>YOUR EFFORT!</Title>
   <Artists>Ray Lewis; Les Brown; Eric Thomas</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Motivation</Genres>
   <Length>00:10:35.9040000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>900</Width>
+    <Height>900</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

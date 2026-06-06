@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Interview with Frank Kern and John Reese</Title>
   <Artists>Tony Robbins</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Motivation</Genres>
   <Length>00:38:25.6930000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>640</Width>
+    <Height>680</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

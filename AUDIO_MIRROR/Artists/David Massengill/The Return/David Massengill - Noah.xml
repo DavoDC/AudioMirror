@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Noah</Title>
   <Artists>David Massengill</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:07:41.4670000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>598</Width>
+    <Height>596</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

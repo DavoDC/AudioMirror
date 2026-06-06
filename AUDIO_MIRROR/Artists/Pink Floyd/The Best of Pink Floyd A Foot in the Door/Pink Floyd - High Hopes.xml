@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>High Hopes</Title>
   <Artists>Pink Floyd</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>11</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:06:56.0120000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1500</Width>
+    <Height>1500</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

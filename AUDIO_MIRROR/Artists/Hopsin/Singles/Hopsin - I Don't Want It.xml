@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>I Don't Want It</Title>
   <Artists>Hopsin</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:04:32.6360000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>720</Width>
+    <Height>720</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

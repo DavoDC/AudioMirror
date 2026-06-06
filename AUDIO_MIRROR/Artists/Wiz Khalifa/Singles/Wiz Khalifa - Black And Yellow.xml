@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Black And Yellow</Title>
   <Artists>Wiz Khalifa</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>17</TrackNumber>
   <Genres>Missing</Genres>
   <Length>00:03:51.9090000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>400</Width>
+    <Height>400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

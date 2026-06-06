@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Would You Love a Creature</Title>
   <Artists>Sister</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>9</TrackNumber>
   <Genres>Rock</Genres>
   <Length>00:04:04.0800000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1200</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Maybe Could Be Possible</Title>
   <Artists>Akira The Don;Scott Adams</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>3</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:06:54.8160000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1200</Width>
+    <Height>1200</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

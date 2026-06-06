@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>'NBC Olympic Style' (PSY 'Gangnam Style' Parody)</Title>
   <Artists>teddiefilms</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Parody</Genres>
   <Length>00:04:22.0520000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1280</Width>
+    <Height>720</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

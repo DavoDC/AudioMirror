@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Soda Pop</Title>
   <Artists>Saja Boys;Andrew Choi;Neckwav;Danny Chung;Kevin Woo;samUIL Lee;KPop Demon Hunters Cast</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>3</TrackNumber>
   <Genres>Asian Music</Genres>
   <Length>00:02:31.2720000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

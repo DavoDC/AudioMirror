@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Blvck and White</Title>
   <Artists>muGz;SRH</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>11</TrackNumber>
   <Genres>Films; Games</Genres>
   <Length>00:04:56.8310000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1000</Width>
+    <Height>1000</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Year of the Grind</Title>
   <Artists>Eric Thomas</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>9</TrackNumber>
   <Genres>Musivation</Genres>
   <Length>00:02:21.2570000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1400</Width>
+    <Height>1400</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

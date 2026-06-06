@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Ma Baker</Title>
   <Artists>Boney M</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>4</TrackNumber>
   <Genres>Pop; Disco</Genres>
   <Length>00:03:46.6570000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>1500</Width>
+    <Height>1329</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

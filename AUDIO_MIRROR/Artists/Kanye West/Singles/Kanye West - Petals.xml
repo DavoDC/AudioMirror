@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Petals</Title>
   <Artists>Kanye West</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>0</TrackNumber>
   <Genres>Rap; Hip Hop</Genres>
   <Length>00:02:50.6360000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>787</Width>
+    <Height>787</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>

@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Track>
   <Title>Girl All the Bad Guys Want</Title>
   <Artists>Bowling for Soup</Artists>
@@ -6,6 +7,10 @@
   <TrackNumber>3</TrackNumber>
   <Genres>Alternative</Genres>
   <Length>00:03:18.3930000</Length>
-  <AlbumCoverCount>1</AlbumCoverCount>
+  <AlbumCover>
+    <Count>1</Count>
+    <Width>800</Width>
+    <Height>800</Height>
+  </AlbumCover>
   <Compilation>True</Compilation>
 </Track>
