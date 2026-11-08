@@ -12,5 +12,5 @@
     <Width>1080</Width>
     <Height>1080</Height>
   </AlbumCover>
-  <Compilation>False</Compilation>
+  <Compilation>True</Compilation>
 </Track>
